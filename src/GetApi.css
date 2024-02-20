@@ -1,0 +1,53 @@
+.api-wrapper {
+  margin: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.main-input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.main-input input {
+  border: 2px solid black;
+  background-color: #c6e1ff;
+  font-size: 16px;
+  padding: 10px;
+  width: 20%;
+  min-width: 200px;
+}
+
+.main-input button {
+  padding: 10px;
+  background-color: #c6e1ff;
+  border-radius: 10px;
+  border: 2px solid black;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.response-wrapper {
+  align-self: center;
+  width: 50%;
+  min-width: 300px;
+  background-color: #c6e1ff;
+  height: 500px;
+  padding: 10px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+  border-radius: 20px;
+}
+
+.response-text {
+  overflow: auto;
+  height: auto;
+  max-width: 100%;
+}
