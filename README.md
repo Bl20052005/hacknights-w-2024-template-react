@@ -2,19 +2,19 @@
 
 this repository is the starting point for the React-based API workshop for HackNights Winter 2024
 
-# First, some installations
+## First, some installations
 
 If you haven't already, please install Node.js [node](https://nodejs.org/en/download)
 
 if you're having trouble installing Node, try reading [this](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac#windows)
 
-# Copying this repository
+## Copying this repository
 
 please run:
 
 git clone https://github.com/Bl20052005/hacknights-w-2024-template-react
 
-# Onto running the application
+## Onto running the application
 
 below are the default terminal commands for running this application, for now, all you'll need is "npm start"
 
