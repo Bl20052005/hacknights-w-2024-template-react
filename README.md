@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this repository is the starting point for the React-based API workshop for HackNights Winter 2024
 
-## Available Scripts
+# First, some installations
 
-In the project directory, you can run:
+If you haven't already, please install Node.js [node](https://nodejs.org/en/download)
+
+if you're having trouble installing Node, try reading [this](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac#windows)
+
+# Copying this repository
+
+please run:
+
+git clone https://github.com/Bl20052005/hacknights-w-2024-template-react
+
+# Onto running the application
+
+below are the default terminal commands for running this application, for now, all you'll need is "npm start"
+
+make sure to change into the directory called "hacknights-w-2024-template-react", then run "npm start"
 
 ### `npm start`
 
