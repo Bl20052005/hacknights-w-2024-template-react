@@ -16,9 +16,13 @@ git clone https://github.com/Bl20052005/hacknights-w-2024-template-react
 
 ## Onto running the application
 
-below are the default terminal commands for running this application, for now, all you'll need is "npm start"
+first, open terminal, then, change into the directory called "hacknights-w-2024-template-react"
 
-make sure to change into the directory called "hacknights-w-2024-template-react", then run "npm start"
+then, in the terminal, run "npm i", it will take a few seconds.
+
+After that, run "npm start"
+
+below includes some more advanced options that you will probably not need:
 
 ### `npm start`
 
